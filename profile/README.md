@@ -49,7 +49,7 @@ The construction of the F-Boat was a complex task that required specialized skil
 - Advanced Monitoring: The F-Boat is equipped with state-of-the-art technology for monitoring water conditions, allowing the collection of valuable data for environmental studies.\
 <https://github.com/medialab-fboat/water-sensors-code>
 
-- Artificial Intelligence (AI): The partnership with nVidia enabled the incorporation of AI systems to enhance the autonomy and performance of the F-Boat.
+- Artificial Intelligence (AI): F-Boat has the computing power of nVidia to assist in artificial intelligence tasks.
 
 - Automation: The F-Boat project is a tangible demonstration of UFF's commitment to investing in technologies with integrated systems that interact with each other. Below are some of the Arduino codes responsible for part of our boat's automation.\
 <https://github.com/medialab-fboat/actuators-code-arduino-mega-and-arduino-uno-version>\
