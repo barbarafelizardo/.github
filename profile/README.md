@@ -56,7 +56,7 @@ The construction of the F-Boat was a complex task that required specialized skil
 <https://github.com/medialab-fboat/actuators-code-just-arduino-mega-version>
 
 
-- Computer Vision: In partnership with artificial intelligence, computer vision will enable the F-Boat to interpret images and videos, empowering it to perform tasks such as object recognition and visual pattern detection.\
+- Computer Vision: Through computer vision the F-Boat will to interpret images and perform tasks such as object recognition and visual pattern detection.\
 <https://github.com/medialab-fboat/Yara_OVE>
 
 
