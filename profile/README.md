@@ -51,7 +51,7 @@ The construction of the F-Boat was a complex task that required specialized skil
 
 - Artificial Intelligence (AI): F-Boat has the computing power of nVidia to assist in artificial intelligence tasks.
 
-- Automation: The F-Boat project is a tangible demonstration of UFF's commitment to investing in technologies with integrated systems that interact with each other. Below are some of the Arduino codes responsible for part of our boat's automation.\
+- Automation: The F-Boat project is a tangible demonstration of UFF's commitment to investing in technologies with integrated systems that interact with each other. Below are some of the Arduino codes responsible for part of our boat's automation:\
 <https://github.com/medialab-fboat/actuators-code-arduino-mega-and-arduino-uno-version>\
 <https://github.com/medialab-fboat/actuators-code-just-arduino-mega-version>
 
